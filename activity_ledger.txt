@@ -276,3 +276,4 @@
 [2026-02-28 15:10:32 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-28 19:03:09 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-02-28 21:33:38 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
+[2025-11-23 10:09:48 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
