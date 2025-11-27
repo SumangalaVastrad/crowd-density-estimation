@@ -287,3 +287,4 @@
 [2025-11-26 13:22:07 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-11-26 14:06:25 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2025-11-27 16:35:08 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2025-11-27 20:25:06 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
