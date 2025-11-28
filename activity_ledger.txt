@@ -289,3 +289,4 @@
 [2025-11-27 16:35:08 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-11-27 20:25:06 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-11-28 12:46:05 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
+[2025-11-28 14:03:43 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
