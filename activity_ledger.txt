@@ -297,3 +297,4 @@
 [2025-11-29 21:44:42 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-11-30 11:25:18 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2025-11-30 16:41:45 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2025-12-01 09:52:21 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
