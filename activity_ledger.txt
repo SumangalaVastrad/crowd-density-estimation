@@ -301,3 +301,4 @@
 [2025-12-01 12:26:18 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2025-12-02 12:32:26 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2025-12-02 14:57:42 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2025-12-02 19:30:10 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
