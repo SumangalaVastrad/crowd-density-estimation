@@ -306,3 +306,4 @@
 [2025-12-03 11:33:32 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2025-12-03 12:06:49 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-03 14:04:56 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
+[2025-12-03 15:08:10 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
