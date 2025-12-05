@@ -311,3 +311,4 @@
 [2025-12-04 17:56:01 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-04 18:44:47 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2025-12-05 10:11:30 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2025-12-05 13:01:47 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
