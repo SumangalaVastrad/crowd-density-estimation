@@ -314,3 +314,4 @@
 [2025-12-05 13:01:47 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-12-05 14:57:47 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2025-12-05 15:17:33 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2025-12-06 11:24:49 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
