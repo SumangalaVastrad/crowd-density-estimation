@@ -321,3 +321,4 @@
 [2025-12-07 09:57:37 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-07 12:06:06 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2025-12-07 22:47:32 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2025-12-08 11:31:36 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
