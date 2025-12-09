@@ -323,3 +323,4 @@
 [2025-12-07 22:47:32 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-12-08 11:31:36 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-12-08 19:11:17 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2025-12-09 17:47:45 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
