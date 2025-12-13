@@ -334,3 +334,4 @@
 [2025-12-12 11:47:57 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2025-12-12 17:37:37 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-13 10:43:28 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
+[2025-12-13 12:23:28 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
