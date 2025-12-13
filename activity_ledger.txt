@@ -335,3 +335,4 @@
 [2025-12-12 17:37:37 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-13 10:43:28 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2025-12-13 12:23:28 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
+[2025-12-13 21:27:30 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
