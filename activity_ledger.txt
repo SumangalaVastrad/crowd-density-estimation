@@ -343,3 +343,4 @@
 [2025-12-15 16:56:55 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2025-12-15 21:36:07 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2025-12-16 10:55:16 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2025-12-16 21:11:27 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
