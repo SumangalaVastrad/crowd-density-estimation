@@ -349,3 +349,4 @@
 [2025-12-17 15:51:30 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2025-12-18 11:13:19 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2025-12-18 16:14:04 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
+[2025-12-18 19:38:48 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
