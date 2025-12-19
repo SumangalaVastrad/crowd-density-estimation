@@ -351,3 +351,4 @@
 [2025-12-18 16:14:04 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2025-12-18 19:38:48 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2025-12-18 20:35:04 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2025-12-19 09:55:12 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
