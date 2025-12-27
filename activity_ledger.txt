@@ -375,3 +375,4 @@
 [2025-12-26 09:50:09 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
 [2025-12-26 14:41:17 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2025-12-26 22:11:48 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2025-12-27 10:58:10 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
