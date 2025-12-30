@@ -381,3 +381,4 @@
 [2025-12-28 15:24:58 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2025-12-29 12:44:16 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
 [2025-12-29 14:43:07 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2025-12-30 11:16:56 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
