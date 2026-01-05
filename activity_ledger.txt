@@ -399,3 +399,4 @@
 [2026-01-04 15:13:17 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
 [2026-01-04 18:03:46 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-05 19:13:24 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2026-01-05 20:28:05 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
