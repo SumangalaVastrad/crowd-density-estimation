@@ -405,3 +405,4 @@
 [2026-01-06 13:36:09 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2026-01-06 14:13:27 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-01-06 15:43:25 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
+[2026-01-06 22:44:48 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
