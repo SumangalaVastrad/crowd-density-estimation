@@ -409,3 +409,4 @@
 [2026-01-07 13:14:28 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-01-07 22:51:38 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-01-08 12:33:31 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
+[2026-01-08 16:51:58 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
