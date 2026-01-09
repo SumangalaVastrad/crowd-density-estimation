@@ -411,3 +411,4 @@
 [2026-01-08 12:33:31 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-01-08 16:51:58 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-01-08 19:51:48 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2026-01-09 10:44:20 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
