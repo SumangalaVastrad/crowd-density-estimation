@@ -413,3 +413,4 @@
 [2026-01-08 19:51:48 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-09 10:44:20 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-01-09 12:15:52 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2026-01-09 14:13:10 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
