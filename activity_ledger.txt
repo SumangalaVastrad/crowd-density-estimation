@@ -427,3 +427,4 @@
 [2026-01-13 18:28:54 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-13 21:36:29 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-01-14 19:18:50 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2026-01-14 22:50:34 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
