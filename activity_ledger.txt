@@ -431,3 +431,4 @@
 [2026-01-15 10:16:18 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-01-15 13:22:21 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-01-15 20:58:35 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
+[2026-01-16 12:05:27 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
