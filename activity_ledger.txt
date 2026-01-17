@@ -433,3 +433,4 @@
 [2026-01-15 20:58:35 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
 [2026-01-16 12:05:27 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-16 20:27:22 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
+[2026-01-17 15:25:58 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
