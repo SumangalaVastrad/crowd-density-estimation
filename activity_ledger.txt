@@ -436,3 +436,4 @@
 [2026-01-17 15:25:58 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2026-01-17 22:50:38 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-01-18 09:20:49 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2026-01-18 14:25:55 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
