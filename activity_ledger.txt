@@ -445,3 +445,4 @@
 [2026-01-20 16:26:38 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-01-20 18:37:43 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-20 22:02:06 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
+[2026-01-21 12:21:22 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
