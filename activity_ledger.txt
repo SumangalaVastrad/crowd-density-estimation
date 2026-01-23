@@ -451,3 +451,4 @@
 [2026-01-22 09:48:35 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-01-22 16:04:23 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-01-23 09:13:54 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2026-01-23 12:02:40 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
