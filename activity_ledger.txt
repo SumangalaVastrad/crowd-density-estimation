@@ -461,3 +461,4 @@
 [2026-01-25 18:13:05 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-01-25 19:38:45 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2026-01-26 18:52:08 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
+[2026-01-26 19:51:37 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
