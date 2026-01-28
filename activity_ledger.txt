@@ -468,3 +468,4 @@
 [2026-01-27 15:24:41 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-01-27 19:58:54 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-01-28 13:30:28 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
+[2026-01-28 16:53:47 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
