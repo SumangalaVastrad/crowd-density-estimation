@@ -476,3 +476,4 @@
 [2026-01-29 22:55:21 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2026-01-30 13:57:18 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-01-30 18:36:01 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2026-01-30 20:34:13 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
