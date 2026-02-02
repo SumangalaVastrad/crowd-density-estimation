@@ -483,3 +483,4 @@
 [2026-02-01 20:43:38 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-02-02 15:22:23 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-02 17:45:30 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
+[2026-02-02 20:18:20 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
