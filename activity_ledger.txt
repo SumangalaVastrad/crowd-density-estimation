@@ -489,3 +489,4 @@
 [2026-02-04 17:19:07 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-04 18:54:13 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2026-02-04 21:19:15 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
+[2026-02-04 22:24:12 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
