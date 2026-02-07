@@ -495,3 +495,4 @@
 [2026-02-06 13:31:31 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-02-06 18:29:22 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-02-07 10:32:05 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
+[2026-02-07 15:37:41 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
