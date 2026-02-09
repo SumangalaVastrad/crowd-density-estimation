@@ -502,3 +502,4 @@
 [2026-02-09 13:56:38 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2026-02-09 15:28:20 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-02-09 16:37:40 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
+[2026-02-09 21:04:40 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
