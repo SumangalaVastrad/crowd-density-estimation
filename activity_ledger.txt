@@ -506,3 +506,4 @@
 [2026-02-10 10:16:12 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
 [2026-02-10 11:36:05 +0530] docs(architecture): document multi-column receptive field configurations and dilated rate parameters
 [2026-02-10 19:11:01 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
+[2026-02-11 12:46:19 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
