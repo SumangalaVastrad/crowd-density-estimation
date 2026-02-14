@@ -515,3 +515,4 @@
 [2026-02-13 10:20:39 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-02-14 10:45:20 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-02-14 16:45:26 +0530] test(eval): evaluate Mean Absolute Error (MAE) and Mean Squared Error (MSE) on test splits
+[2026-02-14 22:18:33 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
