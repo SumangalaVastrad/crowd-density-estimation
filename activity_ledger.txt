@@ -518,3 +518,4 @@
 [2026-02-14 22:18:33 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-02-15 14:17:02 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2026-02-15 18:06:15 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2026-02-15 20:44:54 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
