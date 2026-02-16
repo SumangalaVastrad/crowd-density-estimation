@@ -522,3 +522,4 @@
 [2026-02-16 09:49:49 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-02-16 13:12:31 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-02-16 18:34:42 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2026-02-16 22:29:18 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
