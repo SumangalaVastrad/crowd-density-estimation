@@ -524,3 +524,4 @@
 [2026-02-16 18:34:42 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-02-16 22:29:18 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-02-17 14:27:22 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
+[2026-02-17 16:21:43 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
