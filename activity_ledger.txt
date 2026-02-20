@@ -534,3 +534,4 @@
 [2026-02-20 09:18:36 +0530] feat(dataset): build ShanghaiTech Part A and Part B data loader with bounding-box annotations
 [2026-02-20 12:09:19 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
 [2026-02-20 16:29:57 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
+[2026-02-20 21:45:32 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
