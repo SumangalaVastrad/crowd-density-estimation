@@ -536,3 +536,4 @@
 [2026-02-20 16:29:57 +0530] fix(loss): resolve edge zero-padding artifacts in Euclidean loss calculation
 [2026-02-20 21:45:32 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-21 13:01:36 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
+[2026-02-21 17:27:06 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
