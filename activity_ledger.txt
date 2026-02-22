@@ -538,3 +538,4 @@
 [2026-02-21 13:01:36 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-21 17:27:06 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2026-02-22 10:42:54 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
+[2026-02-22 16:10:32 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
