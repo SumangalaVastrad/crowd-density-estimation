@@ -552,3 +552,4 @@
 [2026-02-26 20:25:15 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
 [2026-02-26 22:55:50 +0530] refactor(pipeline): decouple spatial feature extractor from dilated backend layers
 [2026-02-27 15:10:32 +0530] perf(preprocessing): generate geometry-adaptive Gaussian kernels for density map targets
+[2026-02-27 19:03:09 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
