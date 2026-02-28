@@ -555,3 +555,4 @@
 [2026-02-27 19:03:09 +0530] feat(model): implement CSRNet dilated convolutional backbone for crowd density estimation
 [2026-02-27 21:33:38 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
 [2026-02-28 16:01:47 +0530] style(visualizer): render predicted crowd count density heatmaps alongside ground truth
+[2026-02-28 17:10:27 +0530] perf(training): accelerate tensor batch augmentation using PyTorch torchvision transforms
